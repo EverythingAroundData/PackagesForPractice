@@ -1,0 +1,7 @@
+Author Name: Mridul Chandhok
+Date Created: 31st Oct, 2023
+Version: v0.1
+Description: Log file containing random text for testing with itertools islice function.
+
+Hello there.
+My technologies are Azure Databricks, PySpark, Delta, ADLS, Python, SQL, Data Warehousing and Git/Github.
